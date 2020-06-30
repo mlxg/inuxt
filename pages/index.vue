@@ -29,6 +29,7 @@
 export default {
   data () {
     return {
+      a: '',
       tabList: [{
         id: 1,
         name: '详情'

@@ -16,7 +16,7 @@
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.11",
     "koa": "^2.6.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.12.2",
     "swiper": "^5.4.5",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1"
